@@ -1,6 +1,6 @@
-Welcome to **QuoteQuest** GitHub Repository!
+<h1>"QuoteQuest"</h1>
 
-![QuoteQuest](QuoteQuest.png)
+Welcome to **QuoteQuest** GitHub Repository!
 
 QuoteQuest is a fantastic web application designed to provide you with an endless supply of random quotes that are sure to inspire, motivate, and entertain you. With a seamless user experience and a range of features, QuoteQuest makes it easy to discover, share, and even listen to your favorite quotes.
 
@@ -20,11 +20,7 @@ QuoteQuest is a fantastic web application designed to provide you with an endles
 2. Click the "New Quote" button to get a random quote.
 3. To share the quote on Twitter, click the "Twitter" icon.
 4. Use the "Copy" icon to copy the quote to your clipboard.
-5. To listen to the quote, click the "Listen" icon.
-
-## Contribution:
-
-Contributions are welcome! If you'd like to improve the app, fix any issues, or add new features, feel free to fork this repository, make your changes, and submit a pull request.
+5. To listen to the quote, click the "speaker" icon.
 
 ## Feedback and Support:
 

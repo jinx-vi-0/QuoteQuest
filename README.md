@@ -26,10 +26,10 @@ QuoteQuest is a fantastic web application designed to provide you with an endles
 
 ## Feedback and Support:
 
-If you encounter any problems while using QuoteQuest or have suggestions for improvement, please open an issue on this repository. Your feedback is highly valuable to us!
+If you encounter any problems while using QuoteQuest or have suggestions for improvement, please open an issue on this repository. Your feedback is highly valuable to me!
 
-## Connect with Us:
+## Connect with Me:
 
-Stay updated with the latest news and announcements by following us on [LinkedIn](https://www.linkedin.com/in/jinx-vi/) and [Twitter](https://twitter.com/_jinx_vi_).
+Stay updated with the latest news and announcements by following me on [LinkedIn](https://www.linkedin.com/in/jinx-vi/) and [Twitter](https://twitter.com/_jinx_vi_).
 
-We hope you enjoy using QuoteQuest as much as we enjoyed creating it!
+We hope you enjoy using QuoteQuest as much as I enjoyed creating it!
